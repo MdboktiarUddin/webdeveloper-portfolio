@@ -105,3 +105,10 @@ background: wheat;
 margin: 150px 250px;
 text-align: center;
 }
+.footer-column{
+    width: 50%;
+}
+.contact {
+display: block;
+margin-bottom: 10px;
+}
