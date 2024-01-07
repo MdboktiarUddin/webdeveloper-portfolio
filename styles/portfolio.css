@@ -1,25 +1,18 @@
-
-body{
-    font-family:Arial, Helvetica, sans-serif;
-}
-
 nav{
     display: flex;
 }
-.nav-title{
-    color: #181818;
-    font-size: medium;
-    font-family: 'Times New Roman', Times, serif;
+.nav-title {
+font-size: 40px;
+color: black;
+font-weight: 800;
+}
+h3{
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
+    color: black;
+    border: none;
 }
-nav > ul{
-    display: flex;
-}
-nav > li{
-    list-style: none;
-    margin-right: 50px;
-}
-nav a {
-    text-decoration: none;
-    color: gray;
+body{
+    font-family: sans-serif;
 }
