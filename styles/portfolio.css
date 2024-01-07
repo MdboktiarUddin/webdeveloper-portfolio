@@ -19,10 +19,14 @@ nav>ul {
 }
 .header{
     color:azure;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    padding: 30px 30px 0px 150px;
     display: flex;
+    align-items: center;
 }
 .banner-title{
     color:blue;
@@ -50,4 +54,12 @@ body{
 .parag{
     color: black;
     font-size: 150%;
+}
+/*main section style*/
+
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background: antiquewhite;
+    text-align: center;
 }
