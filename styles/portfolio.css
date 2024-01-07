@@ -24,6 +24,13 @@ nav>ul {
     padding: 30px 30px 30px 150px;
     display: flex;
 }
+.banner-title{
+    color:blue;
+    font-size: 300%;
+}
+.banner .profile-pic{
+    width: 400px;
+}
 .button-primary{
     background-color: orange;
     border-radius: 5px;
@@ -39,4 +46,8 @@ h3{
 }
 body{
     font-family: sans-serif;
+}
+.parag{
+    color: black;
+    font-size: 150%;
 }
