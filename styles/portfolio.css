@@ -1,5 +1,8 @@
 nav{
     display: flex;
+ justify-content: space-between; 
+   align-items: center;
+   margin: 0 100px;
 }
 .nav-title {
 font-size: 40px;
@@ -10,8 +13,16 @@ nav li{
     list-style: none;
     margin-right: 50px;
 }
-nav > ul {
-    display: inline;
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+.header{
+    color:azure;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
 }
 .button-primary{
     background-color: orange;
