@@ -72,6 +72,15 @@ body{
 .about-info{
     text-align: center;
 }
+/*skills related informa*/
+
+.skills-container{
+    display: flex;
+    
+}
+.skil-description{
+    font-size: 50%;
+}
 .section-title{
     color: rgb(6, 44, 56);
     text-align: center;
@@ -85,4 +94,4 @@ body{
 }
 #what-i-do-description{
     padding: 30px 150px;
-    display: flex;
+} 
